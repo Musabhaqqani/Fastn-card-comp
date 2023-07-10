@@ -45,3 +45,4 @@ role: $inherited.types.copy-regular
 -- end: ftd.column
 
 -- end: card
+-- card:
